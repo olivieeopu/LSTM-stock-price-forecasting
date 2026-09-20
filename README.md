@@ -41,24 +41,43 @@ The data is treated as time series data to preserve its chronological structure.
 ## Methodology
 
 Data Collection
+
       ↓
+      
 Exploratory Data Analysis
+
       ↓
+      
 Data Preprocessing
+
       ↓
+      
 MinMax Normalization
+
       ↓
+      
 Time Series Train-Test Split
+
       ↓
+      
 Sliding Window Transformation
+
       ↓
+      
 Baseline LSTM
+
       ↓
+      
 Modified LSTM
+
       ↓
+      
 Model Evaluation
+
       ↓
+      
 Model Comparison
+
 
 ### Data Preprocessing
 
